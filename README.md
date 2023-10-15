@@ -1,14 +1,14 @@
 # PolicyTimeMachine
 
-- [1. Installation](#installation)
-- [2. Functions & How to Use](#functions--how-to-use)
+- [Installation](#installation)
+- [Functions & How to Use](#functions--how-to-use)
   - [Function 1: Scraping Historical Data](#function-1-scraping-historical-data)
   - [Function 2: Scraping Up-to-date Data](#function-2-scraping-up-to-date-data)
   - [Function 3: Comparing the Scraped Data](#function-3-comparing-the-scraped-data)
   - [Running Progress](#running-progress)
-- [3. Storage of the Scraped and Compared Files](#storage-of-the-scraped-and-compared-files)
+- [Storage of the Scraped and Compared Files](#storage-of-the-scraped-and-compared-files)
 
-## 1. Installation
+## Installation
 
 **For Windows users:**
 1. Install the package and unzip it.
@@ -20,7 +20,7 @@
 2. Open the "python codes" folder.
 3. Run the Py file.
 
-## 2. Functions & How to Use
+## Functions & How to Use
 
 <img src="https://github.com/scarlettsun86/Plots/blob/addfb10b3389a330db9d69940bc5962dadf1b17d/Interface.png" alt="Interface" width="50%">
 
@@ -55,7 +55,7 @@ The information bar at the bottom will display the platform name, policy name, a
 
 **Finished:** When the process is finished, the progress bar will stop scrolling, and the text "Finished!" will appear below the progress bar.
 
-## 3. Storage of the Scraped and Compared Files
+## Storage of the Scraped and Compared Files
 
 After running the application, three folders will be generated: "Data_DayByDay", "Data_DayByDay_combine", and "Data_ComparePolicies". 
 
